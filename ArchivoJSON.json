@@ -1,0 +1,20 @@
+{
+    "data": [
+        // Este es un objeto (entre los {})
+        {
+            "name": "Edgardo Farias",
+            "age": 20,
+            "address": "Parques del Bosque"
+        },
+        // Crea otro objeto completando los datos
+        // justo debajo de este mensaje
+
+    ],
+    "message": [
+        {
+            "message1": "Esto se hizo en la oficina del Teacher.",
+            "message2" "Lorem ipsum"
+        },
+        // Aqui igual ...
+    ],
+}
